@@ -57,3 +57,4 @@
 - [Weide, Curtis @weidecurtis](https://www.github.com/weidecurtis/liftoff-assignments)
 - [Wilson, Joshua (@joshwilson84)](https://github.com/joshwilson84/liftoff-assignments)
 - [Wood, Elisa (@ekw544)](https://github.com/ekw544/liftoff-assignments)
+- [Johnson, Jacob (@jj-89)](https://github.com/jj-89/liftoff-assignments)
