@@ -14,7 +14,7 @@ https://github.com/jj-89
 ### LinkedIn
 Provide a link to your LinkedIn account here.
 
-https://www.linkedin.com/in/jacob-johnson-08bb1a131/
+https://www.linkedin.com/in/jacob-l-johnson/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo.
